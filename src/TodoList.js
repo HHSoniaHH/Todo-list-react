@@ -28,7 +28,7 @@ const TodoList = () => {
     <div style={{ maxWidth: 400, margin: 'auto' }}>
       <h2>Todo List</h2>
       <TextField
-        label="Nouvelle tâche"
+        label="New Task"
         variant="outlined"
         fullWidth
         value={newTask}
